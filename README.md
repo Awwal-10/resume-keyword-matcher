@@ -4,7 +4,7 @@ A beginner-friendly Python app that compares your resume with a job description 
 
 ## 🚀 Live Demo
 
-[[My Streamlit Cloud Link](https://resume-keyword-matcher.streamlit.app/)
+[My Streamlit Cloud Link](https://resume-keyword-matcher.streamlit.app/)
 
 ## My Computational Thinking Approach
 
