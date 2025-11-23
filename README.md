@@ -1,6 +1,6 @@
 # 🔍 Resume Keyword Matcher
 
-A beginner-friendly Python app that compares your resume with a job description and shows keyword matches, missing skills, and a match percentage. Built with Streamlit for easy web access.
+I built a beginner-friendly Python app that compares your resume with a job description and shows keyword matches, missing skills, and a match percentage. Built with Streamlit for easy web access.
 
 ## 🚀 Live Demo
 
@@ -64,6 +64,6 @@ A beginner-friendly Python app that compares your resume with a job description 
 
 ## 👨‍💻 Author
 
-Your Name  
+Name: Awwal Ahmed  
 - GitHub: [MY GITHUB](https://github.com/Awwal-10)  
 - LinkedIn: [LinkedIn Profile](www.linkedin.com/in/awwal-ahmed10)  
