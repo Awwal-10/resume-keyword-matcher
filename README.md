@@ -43,7 +43,7 @@ A beginner-friendly Python app that compares your resume with a job description 
 1. **Clone or download this project**
    ```bash
    # If using git
-   git clone https://github.com/yourusername/resume-keyword-matcher.git
+   git clone https://github.com/Awwal-10/resume-keyword-matcher.git
    cd resume-keyword-matcher
 
 ## 🔧 Future Enhancements
@@ -60,3 +60,10 @@ A beginner-friendly Python app that compares your resume with a job description 
 - [ ] Add ATS (Applicant Tracking System) compatibility scoring
 - [ ] Implement machine learning for better keyword matching
 - [ ] Add resume template suggestions
+
+
+## 👨‍💻 Author
+
+Your Name  
+- GitHub: [MY GITHUB](https://github.com/Awwal-10)  
+- LinkedIn: [LinkedIn Profile](www.linkedin.com/in/awwal-ahmed10)  
