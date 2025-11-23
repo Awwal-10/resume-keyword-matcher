@@ -6,10 +6,10 @@ A beginner-friendly Python app that compares your resume with a job description 
 
 [My Streamlit Cloud Link should Appear Here After Deployment]
 
-## 🧠 Computational Thinking Approach
+## My Computational Thinking Approach
 
 ### Decomposition
-- **Input Collection**: File upload for resume and job description (.txt files)
+- **Input Collection**: File upload for resume and job description
 - **Text Processing**: Clean text and extract keywords using frequency analysis
 - **Comparison Logic**: Check resume for job keywords using exact matching
 - **Results Display**: Show match percentage, found/missing keywords with visual charts
